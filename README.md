@@ -1,2 +1,5 @@
-# magento-ce-1.9
-This is the latest stable release of the Magento Community Edition 1.x.  Added Feb 23, 2016  Includes patches: SUPEE-5344, SUPEE-5994, SUPEE-6237, SUPEE-6285, SUPEE-6482, SUPEE-6788, SUPEE-7616, SUPEE-7405, SUPEE-7405 v1.1
+
+ver 1.9.3.6 - Added Sep 14, 2017
+ 
+
+- Includes patches: SUPEE-5344, SUPEE-5994, SUPEE-6237, SUPEE-6285, SUPEE-6482, SUPEE-6788, SUPEE-7616, SUPEE-7405, SUPEE-7405 v1.1, SUPEE-8788, SUPEE-9652, SUPEE-8167, SUPEE-9767v2, SUPEE-10266 
